@@ -23,4 +23,4 @@ gtkwave elevator.vcd
 ```
 
 ## Author
-Eswar Sathi
+hari dheeraj
